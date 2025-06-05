@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leo</h1>
+<h1 align="center">Hi 👋, I'm Léo</h1>
 <h3 align="center">Sudent in software programming and cybersecurity enjoyer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leogoder&label=Profile%20views&color=0e75b6&style=flat" alt="leogoder" /> </p>
